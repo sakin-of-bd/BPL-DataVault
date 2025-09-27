@@ -47,5 +47,7 @@ This project was an incredible learning journey—strengthening our technical, a
 Take a tour to our website: [https://lnkd.in/d_riX8yu](https://oracleapex.com/ords/r/sakin_workspace/bpl-datavault/login?session=102912670024740)
 
 (Reader)
+
 username: thor
+
 password: loki
