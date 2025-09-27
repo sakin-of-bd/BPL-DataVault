@@ -18,7 +18,8 @@ We have collected real-time data from CricSheet. They provides all types of Cric
  Managing and analyzing cricket data like BPL involves massive volumes of player stats and ball-by-ball records. Our system ensures accurate storage, retrieval, and meaningful analysis, laying a strong foundation for future sports analytics and live-data integration.
 
 🙌 Huge thanks to my teammates:
-Md Julfiker Hossain
+
+@Md Julfiker Hossain
 
 @Sudeepta Mandal
 
