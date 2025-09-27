@@ -19,8 +19,11 @@ We have collected real-time data from CricSheet. They provides all types of Cric
 
 🙌 Huge thanks to my teammates:
 Md Julfiker Hossain
-Sudeepta Mandal
-Md. Rashid Uz Zaman
+
+@Sudeepta Mandal
+
+@Md. Rashid Uz Zaman
+
 And special gratitude to our course instructor Sanzana Karim Lora ma'am for guidance throughout this journey.
 
 💡 Future Scope:
